@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🧬I am an Immunology PhD student learning how to code
 <!--
 **Kat-Arce/Kat-Arce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
